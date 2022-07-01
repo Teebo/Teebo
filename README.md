@@ -14,5 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 👯 I’m looking to collaborate on Angular/JS/TS projects
+- 🤔 I’m looking for help with finding a job
+
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Teebo&count_private=true&theme=tokyonight&showicons=true)]()
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Teebo&langs_count=5&theme=tokyonight)]()
